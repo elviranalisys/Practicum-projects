@@ -1,1 +1,14 @@
-## Educational and training projects carried out as part of the training on the Data Analysis сourse at Yandex.Practicum and other educational programs
+# Educational and training projects carried out as part of the training on the Data Analysis сourse at Yandex.Practicum and other educational programs
+
+## Данные проекты были выполнены в ходе обучения в Яндекс.Практикуме, профессии "Аналитик данных"
+###  1. Анализ причин убытков мобильного приложения 
+Задача для маркетингового аналитика развлекательного приложения. Определение причин неэффективности маркетинговой кампании. 
+Python, Pandas, Matplotlib, когортный анализ, юнит-экономика, продуктовые метрики.
+
+### 2.Определение выгодного тарифа для телеком компании
+Задача: На основе данных клиентов оператора сотовой связи проанализировать поведение клиентов и поиск оптимального тарифа
+Python, Pandas, Numpy, проверка статистических гипотез.
+
+### 3.Анализ пользовательского поведения
+Задача: проанализировать поведение пользователей мобильного приложения по продаже продуктов питания.
+Python, Pandas, Matplotlib, A/B- тестирование, проверка статистических гипотез.
